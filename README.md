@@ -2,7 +2,9 @@
 #### For IS 445: Data Visualization Final Project
 
 ##### Data Cleaning, Analysis and Visualization
-
+ 
+ 
+ 
 
 #### Data Cleaning
 1. Treat the nulls
@@ -10,6 +12,9 @@
 3. Split columns
 4. Remove outliers and invalid data
 5. Fixing data types
+
+
+
 
 #### Data Analysis and Visualizaion
 1. Which hours of the day see the most passengers?
@@ -22,6 +27,8 @@
 8. Tip amount according to the hour and day of the week
 9. Fare amount according to the hour and day of the week
 10. Other fares that are charged across the week
+
+
 
 
 #### Key Findings
