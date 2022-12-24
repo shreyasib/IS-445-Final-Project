@@ -1,4 +1,4 @@
-## NYC Yellow Taxi Trips 
+# NYC Yellow Taxi Trips 
 ##### For IS 445: Data Visualization Final Project
 
 ##### Data Cleaning, Analysis and Visualization
@@ -6,7 +6,7 @@
  
  
 
-### Data Cleaning
+## Data Cleaning
 1. Treat the nulls
 2. Drop unneeded columns
 3. Split columns
@@ -16,7 +16,7 @@
 
 
 
-### Data Analysis and Visualizaion
+## Data Analysis and Visualizaion
 1. Which hours of the day see the most passengers?
 2. Which Vendor are preferred on a given day of the week?
 3. Which payment methods are preferred on a given day?
@@ -31,7 +31,7 @@
 
 
 
-### Key Findings
+## Key Findings
 1. Tuesdays and Wednesdays are the busiest days of the week. Taxis are used the least on Sundays.
 2. Morning hours see less passengers than hours from 10am to 9pm.
 3. Vendor 2(VeriFone Inc.) is preferred by passengers.
