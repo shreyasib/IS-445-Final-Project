@@ -20,16 +20,25 @@ The yellow taxi trip records include fields capturing pick-up and drop-off dates
 
 
 ## Data Analysis and Visualizaion
-1. Which hours of the day see the most passengers?
-2. Which Vendor are preferred on a given day of the week?
-3. Which payment methods are preferred on a given day?
-4. Passenger count in a taxi during trips
-5. Fare amount as per distance covered by taxi
-6. Tip amount as per distance covered by taxi
-7. Which days see the most distance covered by taxis?
-8. Tip amount according to the hour and day of the week
-9. Fare amount according to the hour and day of the week
-10. Other fares that are charged across the week
+Q1: Which days have the highest taxi usage?
+
+Q2: Which hours of the day typically have a high taxi usage?
+
+Q3: Which is the most popular Vendor?
+
+Q4: Which is the preferred payment method?
+
+Q5: What is the average passenger count in a taxi?
+
+Q6: What is the trend between Fare amount and the distance covered by taxis?
+
+Q7: What is the trend between Tip amount and the distance covered by taxis? Does more distance covered result in more tip?
+
+Q8: Which days cover the most distance by taxis?
+
+Q9: What is the average tip by Time of Day?
+
+Q10: What is the average Fare amount by Time of Day?
 
 
 
