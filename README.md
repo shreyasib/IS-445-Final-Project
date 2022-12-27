@@ -3,7 +3,6 @@
 
 Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-#### Data Cleaning, Analysis and Visualization
  
  ## Introduction
 The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data was collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP).
