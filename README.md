@@ -1,6 +1,7 @@
 # NYC Yellow Taxi Trips 
 ##### For IS 445: Data Visualization Final Project
 
+##### Libraries: pandas, numpy, matplotlib, seaborn
 
  
  ## Introduction
