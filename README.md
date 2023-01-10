@@ -60,4 +60,8 @@ After the analysis, we share our high-level business recommendations:
 
 1. The final taxi price can automatically include a 5% tip which the customer can choose to opt out of if he or she wants to before paying the fare. For some customers, the 5% tip would not make a difference and would not make an effort to ask to exclude the tip.
 2. As weekdays see the least number of passengers, a special rate could be implemented - if the travel distance extends beyond 10kms, then the customers can get a 5% discount. This can possiblity attract more customers on the weekend.
+3. Increase transparency and accountability. This could include implementing a system for tracking and responding to passenger feedback, and making more information about the performance and behavior of drivers available to the public.
+4. Enhance driver training and support. This could include providing additional training on customer service, safety, and navigation, as well as offering support and resources to help drivers manage the challenges of the job.
+5. Improve the quality of vehicles in the fleet. This could include establishing stricter maintenance and safety standards for Yellow taxis, and investing in newer, more fuel-efficient vehicles.
+
 
