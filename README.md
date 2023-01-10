@@ -54,3 +54,10 @@ Q10: What is the average Fare amount by Time of Day?
 7. Higher tips are given after midnight especially at 12-1am and 4-6am.
 8. Fares are higher after midnight.
 
+
+## Strategic Recommendations
+Here, after the analysis, we share with you our high-level business recommendations:
+
+1. The final taxi price can automatically include a 5% tip which the customer can choose to opt out of if he or she wants to before paying the fare. For some customers, the 5% tip would not make a difference and would not make an effort to ask to exclude the tip.
+2. As weekdays see the least number of passengers, a special rate could be implemented - if the travel distance extends beyond 10kms, then the customers can get a 5% discount. This can possiblity attract more customers on the weekend.
+
